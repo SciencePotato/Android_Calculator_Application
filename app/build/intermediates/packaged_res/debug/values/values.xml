@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="box_size">62dp</dimen>
+    <dimen name="box_size_large">124dp</dimen>
+    <string name="app_name">Android_Calculator_Application</string>
+    <style name="Base.Theme.Android_Calculator_Application" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Android_Calculator_Application" parent="Base.Theme.Android_Calculator_Application"/>
+</resources>
